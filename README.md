@@ -8,4 +8,4 @@ Meu nome é angelo miguel
 
 
 
-)
+img/avatar-perfil.png
